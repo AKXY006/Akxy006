@@ -10,7 +10,7 @@ Passionate about building scalable backend applications, modern web applications
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student
+- 🎓 ECE Student
 - 💻 Building Full Stack Java Applications using Spring Boot & React
 - 🌱 Currently learning **React.js**, **Advanced Spring Boot**, **Microservices**, and **Spring Security**
 - 🤖 Leveraging AI tools to accelerate learning, improve code quality, debug applications, and build real-world software projects
