@@ -24,66 +24,20 @@ Passionate about building scalable backend applications, modern web applications
 
 # 🛠 Tech Stack
 
-## 💻 Programming Languages
+### 💻 Programming Languages
+Java • JavaScript • SQL • C • C++
 
-- Java
-- JavaScript
-- SQL
-- C
-- C++
+### 🎨 Frontend
+HTML5 • CSS3 • Bootstrap 5 • JavaScript (ES6+) • React.js *(Learning)*
 
----
+### ⚙ Backend
+Spring Boot • Spring MVC • Spring Data JPA • Hibernate ORM • REST APIs • JDBC
 
-## 🎨 Frontend
+### 🗄 Database
+PostgreSQL • MySQL • Oracle SQL
 
-- HTML5
-- CSS3
-- Bootstrap 5
-- JavaScript (ES6+)
-- React.js *(Learning)*
-
----
-
-## ⚙ Backend
-
-- Spring Boot
-- Spring MVC
-- Spring Data JPA
-- Hibernate ORM
-- REST APIs
-- JDBC
-
----
-
-## 🗄 Database
-
-- PostgreSQL
-- MySQL
-- Oracle SQL
-
----
-
-## 🧰 Tools & IDEs
-
-- Git
-- GitHub
-- IntelliJ IDEA
-- Eclipse IDE
-- Visual Studio Code
-- Postman
-- Maven
-
----
-
-## ☁ Currently Exploring
-
-- Microservices
-- Spring Security
-- JWT Authentication
-- Docker
-- CI/CD
-- GitHub Actions
-- AWS Basics
+### 🧰 Tools & IDEs
+Git • GitHub • IntelliJ IDEA • Eclipse IDE • Visual Studio Code • Postman • Maven
 
 ---
 
@@ -103,18 +57,6 @@ Passionate about building scalable backend applications, modern web applications
 
 ---
 
-# 🚀 Featured Projects
-
-- 🍔 Food Delivery Management System
-- 📚 Student Management System
-- 👨‍💼 Employee Management System
-- 🏦 Banking Management System
-- 🌐 Personal Portfolio Website
-- ✅ Todo Application
-- 🌦 Weather Application
-
----
-
 # 📈 GitHub Stats
 
 <p align="center">
@@ -125,17 +67,6 @@ Passionate about building scalable backend applications, modern web applications
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKXY006&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
-
----
-
-# 💼 Soft Skills
-
-- Problem Solving
-- Team Collaboration
-- Continuous Learning
-- Communication
-- Clean Code Practices
-- Time Management
 
 ---
 
